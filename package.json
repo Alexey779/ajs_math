@@ -1,0 +1,11 @@
+{
+  "name": "ajs_math",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC"
+}
